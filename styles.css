@@ -94,7 +94,7 @@ nav a:hover {
     transform: scale(1.1);
 }
 
-#banner {
+#home {
     padding: 8rem 0 6rem;
     background-image: url(./images/danny-howe-bn-D2bCvpik-unsplash-banner.jpg);
     background-size: cover;
@@ -112,7 +112,7 @@ h1 {
     text-shadow: black 2px 2px 5px;
 }
 
-#banner h2 {
+#home h2 {
     position: relative;
     top: 0;
     width: 24rem;
